@@ -3,5 +3,6 @@ A personal portfolio website showcasing projects and ideas created by Ayaan Kukr
 
 **StartUp**
 
-`cd portfolio
-python manage.py runserver`
+`cd portfolio`
+
+`python manage.py runserver`
